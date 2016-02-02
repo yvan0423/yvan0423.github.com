@@ -27,7 +27,7 @@ header h2{font-weight: 600;color: #fff;font-size: 35px;text-shadow: 1px 1px 1px 
 .edu i{display: inline-block;width: 23px;height: 23px;border-radius: 50%;animation: rotate 2s linear infinite normal;vertical-align: -5px;margin-right: 10px;}
 .edu .edu_icon1{background: url("../images/edu_icon1.png") no-repeat center center/cover;}
 .edu .edu_icon2{background: url("../images/edu_icon2.png") no-repeat center center/cover;}
-.contact p,.contact a{font-size: 16px;height: 30px;line-height: 20px;margin-bottom: 10px;display: block;}
+.contact p,.contact a{font-size: 16px;height: 30px;line-height: 20px;margin-bottom: 10px;display: block;color: #333;}
 .contact i{background: url("../images/contact_icon.png") no-repeat;display: inline-block;vertical-align: middle;width: 18px;margin-right: 10px;}
 .contact .date_icon{height: 19px;background-position: 0 0;}
 .contact .add_icon{height: 14px;background-position: 0 -24px;}
